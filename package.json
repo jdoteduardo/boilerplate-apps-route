@@ -10,7 +10,7 @@
     "test:ci": "jest --runInBand",
     "start": "next start",
     "lint": "next lint",
-    "prepare": "husky"
+    "prepare": "husky install"
   },
   "dependencies": {
     "next": "15.3.1",
