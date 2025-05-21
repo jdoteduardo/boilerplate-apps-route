@@ -1,0 +1,6 @@
+# Ignora pastas ou arquivos
+generators/
+
+# Ignora tudo dentro das pastas .storybook e .jest
+.storybook/
+.jest/
